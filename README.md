@@ -15,7 +15,7 @@ It focuses on building a comprehensive CRM Sales Dashboard using Microsoft Excel
 Excel, Pivot Tables, Slicers, Advanced Formulas, Dashboard Design, Data Storytelling
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard)
+![Dashboard](CRM-Sales-Dashboard-Excel/screenshots/dashboard.png)
 
 ## Acknowledgment
 Special thanks to Dina Ezzat, M.Sc.  
